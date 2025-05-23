@@ -93,7 +93,7 @@ The goal is to optimize marketing strategies to increase conversions and improve
 ---
 
 
-## 📊 Section 1: Key Insights
+## Section 1: Key Insights
 
 ### 1. Demographic and Behavioral Drivers
 - **Age**:  
